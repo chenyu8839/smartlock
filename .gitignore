@@ -1,0 +1,46 @@
+# Build output
+build/
+bin/
+obj/
+out/
+*.o
+*.obj
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+*.d
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.cproject
+.settings/
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Debug files
+*.dSYM/
+*.log
+
+# Dependency directories
+lib/
+libs/
+
+# Compiled libraries
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+
+# Spec workflow (internal)
+.spec-workflow/
