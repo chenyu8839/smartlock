@@ -22,6 +22,10 @@ out/
 .cproject
 .settings/
 
+# MounRiver Studio
+.mrs/
+*.bak
+
 # System files
 .DS_Store
 Thumbs.db
